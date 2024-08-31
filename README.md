@@ -21,6 +21,9 @@ The default value is 5.
 such as 'AJA_IO4K_PLUS', splitting the Audio and Video device output, or using Pulse.  Email 
 me if you have a need for these to be added.
 
+**2025:** This script will need to be updated to work with 2025+.
+
+
 ## Disclaimer
 
 This is not an official Autodesk certified script. Neither the author nor Autodesk are
